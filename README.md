@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=meet-wrteam&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meet-wrteam&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 </div>
