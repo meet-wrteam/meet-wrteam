@@ -62,3 +62,9 @@ meet@wrteam:~$ cat contact.txt
 </a>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meet-wrteam/meet-wrteam/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=100&section=footer"/>
